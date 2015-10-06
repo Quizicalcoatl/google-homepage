@@ -1,0 +1,57 @@
+#page {
+	background: white;
+	height: 100%;
+	width: 100%;
+}
+
+#topbar {
+
+}
+
+#logo {
+	position: absolute;
+	top: 197px;
+	left: 39.5%;
+}
+
+#searchbar {
+	position: absolute;
+	top: 330px;
+	left: 40%;
+	font-size: 2em;
+	border: solid 1px blue;
+	height: 18px;
+	width: 272px;
+}
+
+#buttons {
+	position: absolute;
+	display: inline-block;
+	left: 40%;
+	top: 350px;
+
+}
+
+.footerbar {
+	margin-bottom: 0;
+	width: 100%;
+}
+
+#leftfooter {
+	margin-bottom: 0;
+	margin-left: 0;
+	list-style-type: none;
+	display: inline-block;
+
+}
+
+#rightfooter {
+	margin-bottom: 0;
+	margin-right: 0;
+	list-style-type: none;
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+}
